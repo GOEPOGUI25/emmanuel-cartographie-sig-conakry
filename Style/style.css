@@ -1,0 +1,50 @@
+body{
+         background-color: rgb(125, 168, 154); }
+      div{ 
+         border: 8px double rgba(24, 77, 141, 0.986) ;
+         padding: 35px;
+         margin: 15px;
+         background-color:rgb(228, 228, 217);
+         }
+ P{
+         color: rgb(12, 12, 12);
+         text-align:left;
+         font-family:Century;
+         }
+ h1{
+         color: rgb(42, 33, 83);
+         text-align:left;
+         }
+ #text{
+         color: chocolate;
+    
+ }
+ #color{
+         color: rgb(55, 5, 5);
+         text-align: left;
+ }
+ #goepo{
+         text-align: left;
+ }
+ #GT{
+         color: black;
+         font-size: 43PX;
+         text-align: left;
+         font-family: cursive;
+         text-shadow:cadetblue 4PX 4PX
+ }
+ table,th,td{
+   border: 2px solid; 
+   background-color: 2px rgb(113, 150, 53) double;  
+ }
+ td,th{
+   padding-left: 10px;
+   padding-right: 10px;
+   padding-top: 10PX;
+   padding-bottom: 10px;
+   text-align: center;
+   color: black;
+ }
+ tr:hover{
+   background-color: chocolate;
+ }

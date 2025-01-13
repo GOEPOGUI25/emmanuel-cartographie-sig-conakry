@@ -1,0 +1,18 @@
+body{
+    background-color: aquamarine;
+    text-align: justify;
+            width: 95%;
+            height:98%;
+            padding: 2%;
+            margin: 0;
+}
+head{
+    background-color: rgb(215, 30, 30);
+}
+#map{
+    background-color: rgb(161, 159, 162);
+    
+}
+#text{
+text-align: justify;
+}

@@ -1,0 +1,6 @@
+body{
+    background-color: rgb(172, 125, 91);
+}
+div{
+    border: 8px double color(srgb rgb(135, 121, 121) green blue);
+}
